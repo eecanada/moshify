@@ -4,7 +4,7 @@
 
 
 # Description 
-* Moshify is a mock landing page built to focus on the advances features of HTML5 and CSS3
+* Moshify is a mock landing page built to focus on the advances features of HTML5 and CSS3.
 * With a simple and elegant design, users are able to quickly navigate through the one-page site.
 
 
@@ -19,7 +19,7 @@
 [Click to view page](https://moshcloud.netlify.app/)
 
 * User lands on a beautiful hero page. 
-* With the use of AOS a CSS animation library, as the user scrolls down the page, certain elements will fade into the page creating a dynamic UI
-* Responsive first design 
+* With the use of AOS a CSS animation library, as the user scrolls down the page, certain elements will fade into the page creating a dynamic UI.
+* Responsive first design.
 
 
