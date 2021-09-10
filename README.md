@@ -16,7 +16,7 @@
 
 # Getting Started 
 
-[Click to view page](https://8thvisionproperty.netlify.app/)
+[Click to view page](https://moshcloud.netlify.app/)
 
 * User lands on a beautiful hero page. 
 * With the use of AOS a CSS animation library, as the user scrolls down the page, certain elements will fade into the page creating a dynamic UI
